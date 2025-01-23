@@ -1,0 +1,39 @@
+---
+title: "Tatiana Chu"
+image: "Headshot.jpg"
+links: 
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/tatiana-chu-398408222/"
+  - label: Email
+    url: "mailto:tati.uhc@gmail.com"
+  - label: Resume
+    url: "TC-updatedCVSpring2025.pdf.pdf"
+output: 
+  postcards::trestles
+---
+
+## Bio 
+
+Hello, I am currently a P3 Student in the Doctorate of Pharmacy program at the Massachusetts College of Pharmacy and Health Sciences. I have Recently completed my Bachelors of Pharmaceutical Sciences at MCPHS. Some of my interests include dermatology and oncology. I am always looking for opportunities to learn more about the pharmacy world and connecting with other health professionals
+
+## Education 
+
+**Massachusetts College of Pharmacy and Health Sciences** | Boston, MA 
+Doctor of Pharmacy | Expected May 2026 
+Bachelor of Pharmaceutical Sciences | December 2024 
+
+## Work Experience 
+
+**Massachusetts College of Pharmacy and Health Sciences** | Peer Mentor, September 2024-Present 
+
+**Massachusetts College of Pharmacy and Health Sciences** | International Student Ambassador, September 2021-Present 
+
+**Loja de Presentes Chu, Brazil** | Cashier, January 2013-December 2018
+
+## IPPE Experience 
+
+**Spaulding Rehabilitation Hospital** | Pharmacy Intern, June 2024-uly 2024
+
+**Osco Pharmacy at Start Market** (#4572) | Pharmacy Intern, July 2023-August 2023
+
+## Professional Organizations 
